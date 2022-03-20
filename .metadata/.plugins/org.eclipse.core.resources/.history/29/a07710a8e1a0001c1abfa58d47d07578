@@ -1,0 +1,5 @@
+package com.ecomproject.ecommerce.dao;
+
+public interface ProductRepository {
+
+}

@@ -1,0 +1,5 @@
+package com.ecomproject.ecommerce.config;
+
+public class MyDataRestConfig {
+
+}
